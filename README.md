@@ -5,4 +5,4 @@ The current project displays letter L in 2D by default and on pressing :
  * m it displays letter M
 ## Compiling the project
 1. make sure you configured openGL and GLUT on your pc.
-2. open the terminal and type make.
+2. open the terminal at the project directory and type make.
